@@ -4,3 +4,5 @@ node_modules
 nbproject
 .vscode
 /.vscode
+#ignore .commitinfo created by ioBroker release script
+.commitinfo
