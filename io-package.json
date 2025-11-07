@@ -66,6 +66,7 @@
         "keywords": ["snips", "GUI", "graphical", "scada"],
         "readme": "https://github.com/unltdnetworx/ioBroker.snips/blob/master/README.md",
         "loglevel": "info",
+        "tier": 2,
         "type": "iot-systems",
         "license": "MIT",
         "compact": true
