@@ -67,7 +67,10 @@
         "readme": "https://github.com/unltdnetworx/ioBroker.snips/blob/master/README.md",
         "loglevel": "info",
         "type": "iot-systems",
-        "license": "MIT",
+        "licenseInformation": {
+            "type": "free",
+            "license": "MIT"
+        },
         "compact": true
     },
     "native": {
