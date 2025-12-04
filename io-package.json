@@ -53,7 +53,9 @@
         "authors": [
             "Walter Zengel <w.zengel@gmx.de>",
             "Michael Schuster <development@untld-networx.de>",
-	        "bluefox <dogafox@gmail.com>"
+	        "bluefox <dogafox@gmail.com>";
+            "iobroker-community-adapters <iobroker-community-adapters@gmx.de>",
+            "mcm1957 <mcm57@gmx.at>"
         ],
         "docs": {       
         },
@@ -62,9 +64,9 @@
         "icon": "snips.png",
         "materialize": true,
         "enabled": true,
-        "extIcon": "https://raw.githubusercontent.com/unltdnetworx/ioBroker.snips/master/admin/snips.png",
+        "extIcon": "https://raw.githubusercontent.com/iobroker-community-adapters/ioBroker.snips/master/admin/snips.png",
         "keywords": ["snips", "GUI", "graphical", "scada"],
-        "readme": "https://github.com/unltdnetworx/ioBroker.snips/blob/master/README.md",
+        "readme": "https://github.com/iobroker-community-adapters/ioBroker.snips/blob/master/README.md",
         "loglevel": "info",
         "type": "iot-systems",
         "license": "MIT",
