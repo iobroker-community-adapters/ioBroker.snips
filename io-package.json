@@ -40,7 +40,6 @@
                 "de": "Aktivierung/Deaktivierung der Hotword-Erkennung für jeden Satelliten einstellbar"
             }
         },
-		"title": "Snips-Offline Speech2Text",
         "titleLang": {
             "en": "Snips-Offline speech2text",
             "de": "Snips-Offline Speech2Text"
