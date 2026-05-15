@@ -211,6 +211,8 @@ sudo apt-get install -y snips-injection
 
 * (wal) initial release
 
+[Older changelogs can be found there](CHANGELOG_OLD.md)
+
 ## License
 
 The MIT License (MIT)
