@@ -1,0 +1,84 @@
+{
+  "i18n": true,
+  "type": "panel",
+  "items": {
+    "connectionHeader": {
+      "newLine": true,
+      "type": "header",
+      "text": "Connection settings",
+      "size": 2,
+      "xs": 12,
+      "sm": 12,
+      "md": 12,
+      "lg": 12,
+      "xl": 12
+    },
+    "url": {
+      "newLine": true,
+      "type": "text",
+      "label": "URL:",
+      "xs": 12,
+      "sm": 12,
+      "md": 6,
+      "lg": 4,
+      "xl": 3
+    },
+    "port": {
+      "type": "text",
+      "label": "Port:",
+      "xs": 12,
+      "sm": 12,
+      "md": 6,
+      "lg": 4,
+      "xl": 3
+    },
+    "topic": {
+      "newLine": true,
+      "type": "text",
+      "label": "Text2Command_Instanz:",
+      "xs": 12,
+      "sm": 12,
+      "md": 6,
+      "lg": 4,
+      "xl": 3
+    },
+    "filter": {
+      "type": "text",
+      "label": "Filter:",
+      "xs": 12,
+      "sm": 12,
+      "md": 6,
+      "lg": 4,
+      "xl": 3
+    },
+    "clientId": {
+      "newLine": true,
+      "type": "text",
+      "label": "Client ID:",
+      "xs": 12,
+      "sm": 12,
+      "md": 6,
+      "lg": 4,
+      "xl": 3
+    },
+    "snipsLanguage": {
+      "type": "select",
+      "label": "snipsLanguage:",
+      "options": [
+        {
+          "value": "de",
+          "label": "Deutsch"
+        },
+        {
+          "value": "en",
+          "label": "English"
+        }
+      ],
+      "xs": 12,
+      "sm": 12,
+      "md": 6,
+      "lg": 4,
+      "xl": 3
+    }
+  }
+}
