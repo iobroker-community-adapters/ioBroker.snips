@@ -84,7 +84,10 @@
       {
         "admin": ">=7.6.17"
       }
-    ]
+    ],
+    "adminUI": {
+      "config": "json"
+    }
   },
   "native": {
     "filter": "*",
