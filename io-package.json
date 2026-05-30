@@ -61,7 +61,6 @@
     "platform": "Javascript/Node.js",
     "mode": "daemon",
     "icon": "snips.png",
-    "materialize": true,
     "enabled": true,
     "extIcon": "https://raw.githubusercontent.com/iobroker-community-adapters/ioBroker.snips/master/admin/snips.png",
     "keywords": [
@@ -84,7 +83,10 @@
       {
         "admin": ">=7.6.17"
       }
-    ]
+    ],
+    "adminUI": {
+      "config": "materialize"
+    }
   },
   "native": {
     "filter": "*",
