@@ -1,0 +1,11 @@
+{
+  "Connection settings": "Настройки соединения",
+  "URL:": "URL или IP устройства Snips:",
+  "Port:": "Порт",
+  "Text2Command_Instanz:": "экземпляр text2command:",
+  "Filter:": "Отфильтруйте ответы t2c с помощью этого слова, например «понять»:",
+  "Client ID:": "ID Клиента",
+  "snipsLanguage:": "помощник по языку:",
+  "Deutsch": "Немецкий",
+  "English": "Английский"
+}

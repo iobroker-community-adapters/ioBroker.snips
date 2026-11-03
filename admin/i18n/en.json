@@ -1,0 +1,11 @@
+{
+  "Connection settings": "Connection settings",
+  "URL:": "url or ip of snips device:",
+  "Port:": "port of snips device:",
+  "Text2Command_Instanz:": "text2command instance:",
+  "Filter:": "filter answers of t2c with this word(s), like 'understand'",
+  "Client ID:": "client ID for ioBroker on snips:",
+  "snipsLanguage:": "language of snips assistant:",
+  "Deutsch": "German",
+  "English": "English"
+}
